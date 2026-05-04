@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+
+# Backend (Spring Boot)
+nimble-url-backend/target/
+*.jar
+
+# Frontend (Angular)
+nimble-url-frontend/node_modules/
+nimble-url-frontend/dist/
+
+# OS
+.DS_Store
